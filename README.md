@@ -1,3 +1,5 @@
+![Password Generator App](https://github.com/user-attachments/assets/a5166e2e-899c-46cb-afd9-564be7b5387a)
+
 # Passsword-Generator
 Web application designed to create strong, random passwords tailored to your preferences. Built with HTML, CSS, and JavaScript, this tool ensures robust password generation while offering a seamless and intuitive user experience.
 
