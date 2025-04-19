@@ -1,7 +1,9 @@
-![Password Generator App](https://github.com/user-attachments/assets/a5166e2e-899c-46cb-afd9-564be7b5387a)
-
 # Passsword-Generator
 Web application designed to create strong, random passwords tailored to your preferences. Built with HTML, CSS, and JavaScript, this tool ensures robust password generation while offering a seamless and intuitive user experience.
+
+Live Project: password-generatorbb.netlify.app
+
+![Password Generator App](https://github.com/user-attachments/assets/a5166e2e-899c-46cb-afd9-564be7b5387a)
 
 ## Overview
 This Password Generator is a simple web application built using HTML, CSS, and JavaScript. It allows users to generate random passwords according to their preferences, including password length and character types (uppercase letters, lowercase letters, numbers, and symbols). The generated password can be copied to the clipboard with a single click.
